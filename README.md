@@ -27,8 +27,6 @@
 
 ### 📫 Как со мной связаться:
 - <a href="https://t.me/cogito322" target="_blank">Telegram</a>
-- <a href="https://career.habr.com/cogito322" target="_blank">Хабр Карьера</a>
-- <a href="https://drive.google.com/file/d/1eXBPzzEQBPlWkFGOKCxXnrrrBKPVp7b-/view?usp=sharing" target="_blank">Резюме</a>
 
 <br/>
 
