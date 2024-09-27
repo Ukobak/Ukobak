@@ -10,6 +10,7 @@
 - **React**
 - **Redux, Redux Toolkit, Zustand**
 - **React Query**
+- **Jest, React Testing Library**
 - **Ant Design, Material UI, Fluent UI, Semantic UI, Bootstrap, Rsuite**
 - **Webpack, Vite**
 - **Git**
