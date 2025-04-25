@@ -11,9 +11,11 @@
 - **Redux, Redux Toolkit, Zustand**
 - **TanStack  Query**
 - **Jest, React Testing Library**
-- **Ant Design, Material UI, Fluent UI, Semantic UI, Bootstrap, Rsuite**
+- **styled-components*
+- **Ant Design, Material UI, Fluent UI, Semantic UI, Bootstrap, Rsuite, AdmiralDS**
 - **Webpack, Vite**
 - **Git**
+- **Docker**
   
 
 ### 💼 Ключевые компетенции:
