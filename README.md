@@ -11,7 +11,7 @@
 - **Redux, Redux Toolkit, Zustand**
 - **TanStack  Query**
 - **Jest, React Testing Library**
-- **styled-components*
+- **styled-components**
 - **Ant Design, Material UI, Fluent UI, Semantic UI, Bootstrap, Rsuite, AdmiralDS**
 - **Webpack, Vite**
 - **Git**
